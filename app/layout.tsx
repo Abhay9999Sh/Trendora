@@ -21,7 +21,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Fake Store",
+  title: "Trendora",
   description: "A shopping application built with Next.js and Fake Store API",
 };
 
