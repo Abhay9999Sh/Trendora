@@ -4,7 +4,7 @@ Trendora is a modern e-commerce shopping app built with **Next.js**, **TypeScrip
 
 
 ## 🌍 Live Demo  
-🔗 [View Trendora Online](https://trendora.vercel.app/)  
+🔗 [View Trendora Online](https://trendora-ashy.vercel.app/)  
 
 ## 🚀 Features  
 
